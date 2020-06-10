@@ -7,3 +7,6 @@ for documentation see [Link](https://multiflexmeter.atlassian.net/wiki/spaces/MF
 
 ## MFM GPRS Waterheight v2.0
 See files in this repository
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
