@@ -5,7 +5,7 @@ This project contains the design and manufacturing files for the Multiflexmeter 
 ## MFM LoRa Waterheight v4.0.0-4.0.1
 for documentation see [Link](https://multiflexmeter.atlassian.net/wiki/spaces/MFM/pages/47349775/MFM+waterheight+v4.0)
 
-## MFM GPRS Waterheight v2.0
+## MFM GPRS Waterheight v1.1
 See files in this repository
 
 ## License
